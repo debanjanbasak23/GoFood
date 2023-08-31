@@ -12,13 +12,13 @@ export default function Carousel() {
                         </form>
                     </div>
                     <div className="carousel-item active">
-                        <img src="https://source.unsplash.com/random/300×300?burger" className="d-block w-100" style={{filter: "brightness(30%)"}} alt="..." />
+                        <img src="https://source.unsplash.com/random/300×300?burger" className="d-block w-100" style={{filter: "brightness(50%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/300×300?pizaa" className="d-block w-100" style={{filter: "brightness(30%)"}} alt="..." />
+                        <img src="https://source.unsplash.com/random/300×300?pizaa" className="d-block w-100" style={{filter: "brightness(50%)"}} alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/300×300?barbeque" className="d-block w-100" style={{filter: "brightness(30%)"}} alt="..." />
+                        <img src="https://source.unsplash.com/random/300×300?barbeque" className="d-block w-100" style={{filter: "brightness(50%)"}} alt="..." />
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
